@@ -9,3 +9,4 @@
 * sæt flyveben ved siden af initialize this repository with a README
 * vælg add .gitignore: node
 * vælg create repository
+[du kan læse det officiele guide på engelsk her](https://help.github.com/articles/create-a-repo/)
